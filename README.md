@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem Vindo ao meu perfil ⚡
 
-<!--
-**Samuca1204/Samuca1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Samuel Barbosa
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- Estou me desenvolvendo na lionguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus prjetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo  
+
+samuel.barbosa.ribeiro@escola.pr.gov.br
+
+FALCÃO DIAZ FF
+
+![](https://media.tenor.com/enDmlKDuJSsAAAAi/rock-and-roll-guitar.gif)
